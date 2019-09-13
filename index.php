@@ -1,4 +1,4 @@
-<?php include("includes/config.php");?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -67,7 +67,7 @@
 
 <body>
     <div class="container">
-        <h1><?php print "How are you""; ?></h1>
+       
         <div class="button-container text-right">
             <button class="pure-button button-secondary color-white" onclick="addRow()">+ Add new item</button>
         </div>
