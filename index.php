@@ -67,7 +67,7 @@
 
 <body>
     <div class="container">
-        <h1><?php echo ""How are you"; ?></h1>
+        <h1><?php echo "How are you"; ?></h1>
         <div class="button-container text-right">
             <button class="pure-button button-secondary color-white" onclick="addRow()">+ Add new item</button>
         </div>
